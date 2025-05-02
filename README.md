@@ -2,7 +2,7 @@ Sure! Here’s the updated `README.md` content with explanations for `ps aux | g
 
 ---
 
-### ✅ Final `README.md` hlo rohith
+### ✅ Final `README.md` 
 ```markdown
 # 🚀 Deploy Spring Boot Application on EC2 (Amazon Linux/Ubuntu)
 
